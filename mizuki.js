@@ -53,6 +53,10 @@ client.on("message", (message) => {
    message.channel.send('https://www.twitch.tv/mizukifely');
  
  }else
+ if (message.content.startsWith(prefix + "bichi")){
+   message.channel.send('chingue a su madre todo el que nacio bichi <:Kappa:500018693141430292>');
+ 
+ }else
  if (message.content.startsWith(prefix + "fb")){
    message.channel.send('https://www.facebook.com/FelyMizuki');
 }else
