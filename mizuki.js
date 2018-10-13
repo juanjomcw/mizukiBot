@@ -93,6 +93,10 @@ client.on("message", (message) => {
     if (message.content.startsWith(prefix + "banned")){
       message.channel.send("", {file:"https://cdn.discordapp.com/attachments/421867754480599050/468529032494055454/O3DHIA5.gif"});
        
+}else
+    if (message.content.startsWith(prefix + "dab")){
+      message.channel.send("", {file:"https://gyazo.com/6de15ad2066eb3c9c22ebc4f5dc4cbe8"});
+       
 }else 
     if(message.content.startsWith(prefix + 'love')){
         let users = message.mentions.users.map(m => m.username).join(' y ');
