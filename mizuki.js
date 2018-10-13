@@ -133,7 +133,10 @@ client.on("message", (message) => {
                        '-> '+prefix+'insta | Instagram MizukiFely.\n'+
                        '-> '+prefix+'twitter | Twitter MizukiFely.\n'+
                        '-> '+prefix+'fb | Grupo de fb.\n'+
+                       '-> '+prefix+'dab | dab.jpg .\n'+
                        '-> '+prefix+'twitch | Twitch MizukiFely.\n'+
+                       '-> '+prefix+'bichi | bichi.txt .\n'+
+                       '-> '+prefix+'banned| banned.jpg.\n'+
                        '-> '+prefix+'del <cantidad> | borra los mensajes (SOLO MODERADORES).\n'+
                        '-------------------------------------------------------------------------------------\n'+
                        '**MizukiBOT - Bot Oficial del servidor**\n');
