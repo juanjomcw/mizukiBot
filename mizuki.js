@@ -95,7 +95,7 @@ client.on("message", (message) => {
        
 }else
     if (message.content.startsWith(prefix + "dab")){
-      message.channel.send("", {file:"https://gyazo.com/6de15ad2066eb3c9c22ebc4f5dc4cbe8"});
+      message.channel.send("", {file:"https://cdn.discordapp.com/attachments/421867754480599050/500537497185681408/bloggif_5bc17f65d6739.gif"});
        
 }else 
     if(message.content.startsWith(prefix + 'love')){
